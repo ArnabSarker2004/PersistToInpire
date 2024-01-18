@@ -267,11 +267,13 @@ p
 {
     border-radius: 10px;
 }
-#Apurva-Image 
+#Saqib-Image 
 {
     grid-area: image;
-    background: url("Apurva.jpg");
-    background-size: cover;
+    background: url("image0.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .card-text 
 {
